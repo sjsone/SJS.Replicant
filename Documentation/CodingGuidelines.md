@@ -8,7 +8,7 @@ Almost always needed in any applicable php file:
 use Neos\Flow\Annotations as Flow;
 ```
 
-> ![NOTE]
+> [!NOTE]
 > Always use PHP native attributes instead of doc-block. Only use doc-block if the user says so.c
 
 ### Injection
@@ -33,7 +33,7 @@ The only allowed configuration FileNamePrefixes are:
 - `Routes`
 - `Caches`
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > On legacy systems there is also the `NodeType` type. This should be avoided and any new code/Node Type configuration should be put in the `NodeTypes` folder instead.
 
 ### Semantic Naming

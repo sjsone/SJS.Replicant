@@ -10,7 +10,7 @@ Create or Update your `CLAUDE.md` file with:
 General Neos Documentation for Coding Agents: @Packages/Documentation/SJS.Replicant/Documentation/AGENTS.md
 ```
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Symlinks are not followed!
 > If your package is in `DistributionPackages` do not use `@Packages/...` but `@DistributionPackages/...`
 
