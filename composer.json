@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "type": "neos-documentation",
+    "name": "sjs/replicant",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SJS\\Replicant\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "SJS.Replicant"
+        }
+    }
+}
