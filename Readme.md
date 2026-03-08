@@ -29,5 +29,7 @@ Memory files · /memory
 
 Then test it with:
 > Does my package in DistributionPackages/Vendor.Site adhere to the ideal package layout?
+
 or:
+
 > Check if all the annotations are good
